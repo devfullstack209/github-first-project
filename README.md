@@ -144,7 +144,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
 ## Images
-
+[<img src="https://octodex.github.com/images/minion.png" width="250"/>](image.png)
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
